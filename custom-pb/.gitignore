@@ -1,0 +1,25 @@
+# Custom PocketBase build
+custom-pocketbase
+
+# PocketBase data directory
+pb_data/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# macOS
+.DS_Store

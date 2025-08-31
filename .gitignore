@@ -21,3 +21,6 @@ bin/pb_data/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# PocketBase source (reference only)
+pocketbase-source/
