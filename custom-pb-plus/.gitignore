@@ -1,0 +1,12 @@
+custom-pocketbase-plus
+pb_data/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+.DS_Store
+

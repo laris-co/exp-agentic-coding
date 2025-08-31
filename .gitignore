@@ -3,6 +3,7 @@ bin/pocketbase
 bin/*.zip
 bin/*.tar.gz
 bin/pb_data/
+bin/custom-pocketbase-plus
 
 # Images and media
 *.png
@@ -24,3 +25,8 @@ Thumbs.db
 
 # PocketBase source (reference only)
 pocketbase-source/
+
+# Go workspace and coverage
+go.work
+go.work.sum
+*.out
